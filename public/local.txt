@@ -47,3 +47,55 @@ NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线翡翠,http://mg.hmysapp.cn:177/香港hk/翡翠台.php?id=301
 无线翡翠,http://rihou.cc:555/tv/[Mt]无线翡翠
+
+
+无线明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
+KBS Story,https://stream1.freetv.fun/3f3fee1dc80c45bedbcf8d1f8d4562883a82ab41e022e7457427ba06837a2464.ctv
+
+KBS World HD,https://stream1.freetv.fun/29e6394deb11a02567e6173215b92d713c5a559c72e72e8875b8fbe9363ca4e9.m3u8
+KBS World HD,https://stream1.freetv.fun/b2105e71830f7ed10f253e7c29ca683d219de34c6e0d7c7480263117d02c8d7a.ctv
+KBS World HD,https://stream1.freetv.fun/99fd4df31e9d6a1178ad2dbba99f8ce712cc976843c3b38a08cf5d3bf196d55c.m3u8
+KBS World HD,https://stream1.freetv.fun/50bc0d888a0f703c0b20ff17060ba9967dd7c311277cf3ebb7878e0d3a50d607.ctv
+
+
+KBSN LIFE,https://stream1.freetv.fun/d073bfa9554458c8e00ae437dde777619f89268e5ea09476cc5428854367ff79.ctv
+KCTV,https://stream1.freetv.fun/ce58a222bc5ece239ecedef9a4ec27ed54e90168067a501b7423eeb5fa49ccf9.m3u8
+KCTV,https://stream1.freetv.fun/e82c47e9b08a710d0b51fd66c5020bd57caf2469d1a934e55ced823962657fcd.m3u8
+KIDS-TV,https://stream1.freetv.fun/1fdf3c14b93f99d3bfc5fdde6a5e46ea7e7dc0526cae9758f2df992fa150f8ee.m3u8
+KIDS-TV,https://stream1.freetv.fun/6438b84b7b5558e9ad1fa6c51426a090e208f4be8d6616cfbc355485e21d3939.m3u8
+KIDS-TV,https://stream1.freetv.fun/da9cd677f251810b964598f1636a528e8f6b42accd879cbe11e8c4d6cafa2e78.m3u8
+KIDS-TV,https://stream1.freetv.fun/299c3f837b6d1bb78b5a0984f089352084194050da37520211bbcd522be9fea2.m3u8
+KIDS-TV,https://stream1.freetv.fun/d7b9c22af32bed644af37ea6844cfbd6e633654cfaa475a57080a480ae3fe5f2.m3u8
+KIDS-TV,https://stream1.freetv.fun/91217956898f1900109406d9566865343d25fdeb438774a44741625e218a3ba1.m3u8
+KIDS-TV,https://stream1.freetv.fun/a038f0f7720f3354285998d8280e159a3fcf13fa8febcf403f75f4d49f2f6401.m3u8
+KIDS-TV,https://stream1.freetv.fun/85b0cec5084ff75c74c24d2874a46d58c3790efae9594ac40b1220a02fbb71d7.m3u8
+KIDS-TV,https://stream1.freetv.fun/ff98510c57d1ec89768dc6c91a4fed8b67d47ce9878b2ce0833f1c624784485b.ctv
+KTV,https://stream1.freetv.fun/6a0d37bfbfb52ee53863dcf5ff2ab7f89ce308bc4975fc0b7e3a0b0b1ec6f0a7.m3u8
+KTV,https://stream1.freetv.fun/d86b9424492447d768b14d2c6ffd96044eed33bd8f29544f76920158ba21bea9.m3u8
+
+Korea TV,https://stream1.freetv.fun/a065ac47fd42393590b5c2a0b829b9a2cacc075e4c1e8483fc5f53c6904d77c0.m3u8
+Korea TV,https://stream1.freetv.fun/63a90f1e03a6c0e76396c6a7917bc2cf98414f282d0967ca301011ac9ed0c476.m3u8
+Korea TV,https://stream1.freetv.fun/421d6815e7ca4a0d9cdd1b8f0e5caafb1684d59bdb65ba7c3ba84c012ef649ae.m3u8
+MBC Drama,https://stream1.freetv.fun/e92fec669139458917c58dcdec2b859e6c17f581fcfab25b39f3199b820aaf1b.m3u8
+OBS TV,https://stream1.freetv.fun/0977ac80450c35d41484871384df979248d3b0cfdf3af36fc957c83c128a4165.m3u8
+OCN Movies,https://stream1.freetv.fun/8fffaa79bb9facdbd029ed8bb74dcd5b978c2f4e3b03c33679ea7cbc91d640c7.m3u8
+ONE (Malay),https://stream1.freetv.fun/90fc6ab9d53111da5b2fbf7cf58f58c5a297b07de8277ec85172d6305f8978e5.m3u8
+ONE (Malay),https://stream1.freetv.fun/c3d9896c0b607c05fb33eb7352b4278dee062e31dd7200e11720fcc3a3e9750b.m3u8
+ONE (Malay),https://stream1.freetv.fun/38855d409a7ceedaa96ad6718ddc4648d79bbfbcb23f9afcb3f8490692e038dc.ctv
+ONE (Malay),https://stream1.freetv.fun/e57e9a6b62e150e17f340bd58d6320c0388602dc68c669db3d444ee362f53bb1.m3u8
+SPOTV 1,https://stream1.freetv.fun/f82a69924a9ce64364ea7bf6e3d9c861d6af9334c41f9149153c027a0dd235ec.m3u8
+SPOTV 1,https://stream1.freetv.fun/3dc15f032975f52f0f39bf29fab5a49aa2999e2e36244cdec714aec2d983aa3e.ctv
+SPOTV 2,https://stream1.freetv.fun/3b6a1cdb346c473166c07fb28ece3c0f1d9b89c7435e21a5c897ea53367611d3.ctv
+SPOTV 2,https://stream1.freetv.fun/f23d8c1dc2368232807daf495fe517c9bf4f5f3612bf31713a4f0d1c77bd42cd.m3u8
+
+TV Chosun,https://stream1.freetv.fun/2901a9dd04e36a8548c39ba898521ae5d43041727bf0c899a5ffd157a0d93c32.m3u8
+TVN Asia,https://stream1.freetv.fun/2248c55bf88eec35083e417df158711c315b7b996299449bc74bce0fc48955c6.ctv
+TvN Movies(MY),https://stream1.freetv.fun/a5b8cab5e2c7255f0ac6b14c155f068a38a080071ffd9510d78f4d42d085fb56.ctv
+TvN Movies(MY),https://stream1.freetv.fun/585377071628882b6373e3a82ea23b222f56eb080cd7c1e02e096f65ecce328a.m3u8
+tvN DRAMA,https://stream1.freetv.fun/2f4de745aafc6bad96fab5849f54447bd6fa52374000408411a0bdd171600f45.m3u8
+tvN DRAMA,https://stream1.freetv.fun/99d7e77cd5afac3768f148acf5e73bed3609f73da71975700de52862bfccef3e.m3u8
+阿里郎電視,https://stream1.freetv.fun/4608406a7301aaa0545d3fb97510fa272e2054c5074425ab410fe34b633413b2.ctv
+韓國電影,https://stream1.freetv.fun/fb55bfb45a0ccd52c3736f2cc95d9cd39d6684375440b822a786dd1c4ece3f33.m3u8
+韓國電影,https://stream1.freetv.fun/77de0333259506b335005f5e5da201ad19cf30c28043ba5034df81f3113a12f7.m3u8
+
+☘️测试,#genre#
