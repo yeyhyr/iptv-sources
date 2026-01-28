@@ -36,6 +36,7 @@ NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d
 
 
 无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
+
 无线翡翠,http://r.jdshipin.com/qClQf
 无线翡翠,http://hls.168.us.kg/u/81/master.m3u8
 无线翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -51,6 +52,17 @@ NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d
 无线翡翠,http://mg.hmysapp.cn:177/香港hk/翡翠台.php?id=301
 无线翡翠,http://rihou.cc:555/tv/[Mt]无线翡翠
 
+[HD]翡翠,https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.ctv
+[HD]翡翠,https://stream1.freetv.fun/169afe453d043b4888d3e0684163a3c8e7c13738df07bcfa187dcd05223e3891.ctv
+[HD]翡翠,https://stream1.freetv.fun/6a3d06a183c9ae13fd13486019634c22879261930dad495c33918937d212cc2d.ctv
+
+
+[BD]翡翠,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.ctv
+[BD]翡翠,https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.ctv
+[BD]翡翠,https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.ctv
+[BD]翡翠,https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.ctv
+[BD]翡翠,https://stream1.freetv.fun/8a31735d012894cb8c275ebf1a898a3bb42f7201dd54d6d1201d724877fd9c19.m3u8
+[BD]翡翠,https://stream1.freetv.fun/3b26a0cce2dba229df630c62d4d81ccef7f759bcc8b43365152f04cb40e21f74.ctv
 
 
 无线明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
