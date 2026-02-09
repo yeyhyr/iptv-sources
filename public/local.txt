@@ -941,12 +941,21 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 
+广东体育高清,http://www.bigyan.cn:8225/udp/239.77.0.112:5146
+广东体育高清,http://www.8888866.xyz:10000/udp/239.77.0.112:5146
+广东体育高清,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.112:5146
+广东体育高清,http://idc.zymok.cn:10000/udp/239.77.0.112:5146
 广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-7.m3u8
 广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-5.ctv
 广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-6.ctv
 广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-1.ctv
 广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-8.ctv
 广东体育高清,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-4.ctv
+
+广东体育超清,http://www.bigyan.cn:8225/udp/239.77.0.168:5146
+广东体育超清,http://www.8888866.xyz:10000/udp/239.77.0.168:5146
+广东体育超清,http://lbyjlt.vv5678.cn:8880/udp/239.77.0.168:5146
+
 
 广东新闻,https://hk.188766.xyz/?migutoken=303d604cced0618c4c8ee795416ca0bc&id=gd_gdxw&type=sz
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-9.m3u8
