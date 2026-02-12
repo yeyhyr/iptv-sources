@@ -7,30 +7,28 @@
 
 无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 无线新闻,https://cdn6.101.qzz.io/163189/wxxw
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线新闻,http://r.jdshipin.com/CkuBd
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://rihou.cc:555/tv/[Mt]无线新闻
 无线新闻,http://74.91.26.218:82/live/inews.m3u8
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻,http://hls.168.us.kg/u/83/master.m3u8
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+无线新闻,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv
+无线新闻,https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.ctv
 
-
-NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://epg.pw/media/images/epg/2025/01/29/20250129063901847212_30
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
+Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
 
 now财经,http://hls.168.us.kg/u/333/master.m3u8
 
 now直播,http://hls.168.us.kg/u/331/master.m3u8
 
-NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
-NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
 NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 
 
@@ -38,44 +36,26 @@ NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d
 无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
 
 无线翡翠,http://r.jdshipin.com/qClQf
-无线翡翠,http://hls.168.us.kg/u/81/master.m3u8
+无线翡翠,http://r.jdshipin.com/62WM7
+无线翡翠,http://r.jdshipin.com/qrfbg
 无线翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+无线翡翠,http://hls.168.us.kg/u/81/master.m3u8
 无线翡翠,http://74.91.26.218:82/live/jade.m3u8
 无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
 无线翡翠,https://cdn6.101.qzz.io/163189/fct
-无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-无线翡翠,http://mg.hmysapp.cn:177/香港hk/翡翠台.php?id=301
 无线翡翠,http://rihou.cc:555/tv/[Mt]无线翡翠
 
-[HD]翡翠,https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.ctv
 [HD]翡翠,https://stream1.freetv.fun/169afe453d043b4888d3e0684163a3c8e7c13738df07bcfa187dcd05223e3891.ctv
 [HD]翡翠,https://stream1.freetv.fun/6a3d06a183c9ae13fd13486019634c22879261930dad495c33918937d212cc2d.ctv
 
 
 [BD]翡翠,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.ctv
-[BD]翡翠,https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.ctv
-[BD]翡翠,https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.ctv
-[BD]翡翠,https://stream1.freetv.fun/7626cd1e0830deb6cc37d51b751648e27e25c8136a22f61f6bb6ce5a85dcb0c4.ctv
 [BD]翡翠,https://stream1.freetv.fun/8a31735d012894cb8c275ebf1a898a3bb42f7201dd54d6d1201d724877fd9c19.m3u8
 [BD]翡翠,https://stream1.freetv.fun/3b26a0cce2dba229df630c62d4d81ccef7f759bcc8b43365152f04cb40e21f74.ctv
 
 
 无线明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
-无线明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
-无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-无线明珠,http://php.jdshipin.com:8880/iptv.php?id=mzt
-无线明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-无线明珠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
-无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+无线明珠,http://r.jdshipin.com/ZQ4kN
 无线明珠,http://bxtv.3a.ink/api.php?id=mz
 
 
@@ -85,19 +65,11 @@ NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d
 TVB Plus,http://r.jdshipin.com/ndGgS
 TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
 TVB Plus,https://hk.188766.xyz/?migutoken=213f40ca46ddd99e3a8d896e5796fee4&id=hk_tvbp&type=dy
-TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
-TVB Plus,http://php.jdshipin.com/PLTV/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-TVB Plus,http://rihou.cc:555/tv/PdlPlus综合
-TVB Plus,http://rihou.cc:555/tv/MtlPlus综合
-TVB Plus,http://rihou.cc:555/tv/BxlPlus综合
+TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 TVB Plus,https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.ctv
-TVB Plus,https://stream1.freetv.fun/6ade45822dc9265d4aba6c1854bfd6a2635b13d96624929150024f662eca25d7.ctv
-TVB Plus,https://stream1.freetv.fun/45b5e3b36b8de2cefeacb68ed46660185a95abb2ad353aaaaef7f7adc7f0f8ad.ctv
 TVB Plus,https://stream1.freetv.fun/efea08e40d2af040689b157636dfc39a60cdd414ca5fa586e091a12876bb4bbf.m3u8
-TVB Plus,https://stream1.freetv.fun/b7ff9fabeb588ee6666d131fbadc3d864134dbdd416f4550c8a7934ad9fd9903.ctv
+
 
 
 
@@ -106,39 +78,21 @@ TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
+无线星河,http://r.jdshipin.com/Voac4
 无线星河,https://hk.188766.xyz/?migutoken=c63aad21daa2a799c4ab5e331cd04bb6&id=hk_tvbxh&type=dy
-无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-无线星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-无线星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
-无线星河（国）,http://php.jdshipin.com/smt.php?id=Xinhe
-无线星河（国）,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+
 无线星河（国）,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
-无线星河（国）,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
-
-
-
-
-
-
-
-
-
-
 
 
 
 无线功夫,https://hk.188766.xyz/?migutoken=aad571c466167a4aedb75d5a125e8b49&id=hk_yzwx&type=dy
 无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-无线功夫,http://rihou.cc:555/tv/Pdl无线功夫
+
 
 
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVB娱乐新闻,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 无线千禧,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
@@ -146,7 +100,6 @@ TVB娱乐新闻,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 无线千禧,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 无线千禧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-无线千禧,http://rihou.cc:555/tv/Bxl无线千禧
 无线千禧,http://bxtv.3a.ink/api.php?id=qxjd
 无线千禧,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 无线千禧,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
@@ -161,6 +114,8 @@ TVB娱乐新闻,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 
 
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+无线华丽,http://r.jdshipin.com/thuYX
+无线华丽,http://php.jdshipin.com:8880/smt.php?id=Wlt
 无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
@@ -175,12 +130,9 @@ TVB娱乐新闻,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
 HOY77韩,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
-
 HOY77粤,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY77粤,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-
-
-
+HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
 
 美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
@@ -188,12 +140,9 @@ HOY77粤,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 美亚电影,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-美亚电影,http://rihou.cc:555/tv/Bxl美亚电影
 美亚电影,http://bxtv.3a.ink/api.php?id=meiya
-美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-美亚电影,http://mg.hmysapp.cn:177/香港hk/美亞電影台.php?id=301
 
 天映频道,http://rihou.cc:555/tv/STl天映频道l
 天映频道-马来西亚,http://php.jdshipin.com/smt.php?id=Celestial
@@ -204,18 +153,10 @@ HOY77粤,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 pₒₚc电影,http://bxtv.3a.ink/api.php?id=popc
 
 ViuTV,http://hls.168.us.kg/u/99/master.m3u8
-ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-ViuTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
-ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.ctv
-ViuTV,https://stream1.freetv.fun/4b1a401b0a28174a645749406d87be9f140f3b3112128ffb51a42d0607c84433.ctv
-ViuTV,https://stream1.freetv.fun/ad77293b3968d9314a0a612d10a82fcd2617e3370c750355a5ff31cced30ca13.ctv
-ViuTV,https://stream1.freetv.fun/566447a554a11bb540e5e37ea32162caa2959fefd3707625f70de6ac96255364.ctv
-ViuTV,https://stream1.freetv.fun/24011fe722dc3f5e8fc2c34317c9d94ebd36a707dbd89426eb1072fea51f5b25.ctv
-
 ViuTV,https://stream1.freetv.fun/6e51cfdfdd9988358bd19ac505badd794b005798348da2715479b55057f921a5.ctv
-
+ViuTV,https://cdn.163189.xyz/163189/viu
 
 
 
@@ -247,15 +188,12 @@ AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 
 
 
-凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd\
+
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰中文,http://j.s.bkpcp.top/js/fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://rihou.cc:555/tv/Pdl凤凰中文
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
 
 
@@ -264,23 +202,13 @@ AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 凤凰资讯,,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰资讯,http://j.s.bkpcp.top/js/fhzx
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰资讯,http://rihou.cc:555/tv/Pdl凤凰资讯
-凤凰资讯,http://rihou.cc:555/tv/Bxl凤凰资讯
 
 
-
-
-凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-凤凰香港,http://j.s.bkpcp.top/js/fhxg
-凤凰香港,http://rihou.cc:555/tv/Bxl凤凰香港
-凤凰香港,http://rihou.cc:555/tv/Pdl凤凰香港
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+凤凰香港,http://r.jdshipin.com/yDoTN
 
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
