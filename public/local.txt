@@ -527,6 +527,36 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 
 
 ☘️广东频道,#genre#
+廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu-3.m3u8
+廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu-4.m3u8
+廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu.m3u8
+廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu-1.m3u8
+廣東體育,https://t.freetv.fun/live/yan-dong-ti-yu-6.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-5.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-7.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-8.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-9.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-1.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-2.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-3.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-4.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-6.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-7.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-9.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-10.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-12.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-13.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-14.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-15.m3u8
+廣東體育HD,https://t.freetv.fun/live/guang-dong-ti-yu.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-16.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-17.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-18.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-19.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-20.m3u8
+廣東體育HD,https://t.freetv.fun/live/yan-dong-ti-yu-gao-qing-21.m3u8
+
 广东体育高清,http://www.bigyan.cn:8225/udp/239.77.0.112:5146
 广东体育高清,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东体育高清,http://www.8888866.xyz:10000/udp/239.77.0.112:5146
