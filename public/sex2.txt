@@ -108,7 +108,7 @@ Blue Hustler,http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/1064/man
 ​ПЕPBЫЙ FHD,http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6215/manifest.m3u8
 ​THT International,http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6259/manifest.m3u8
 ​Россия 1 FHD,http://gohyperspeed.com/live/1012180777/IUI2LzkHvx/500174207.m3u8
-
+MEN'S NECO,https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpdkey=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
 
 
 ☘️VPN sexTV3,#genre#
