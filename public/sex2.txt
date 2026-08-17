@@ -36,6 +36,10 @@
 松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松視3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+香蕉🍌免梯子,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
+外1,http://stream.cammonitorplus.net/1705/index.m3u8
+鳥語台181ip訂閱,http://181.78.192.238:8000/playlist.m3u8
+鳥語台186ip訂閱,http://186.33.0.101:4430/playlist.m3u8
 japanese,http://cdn.adultiptv.net/japanese.m3u8
 
 
