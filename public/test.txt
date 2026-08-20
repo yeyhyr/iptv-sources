@@ -1,49 +1,253 @@
-松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
-频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
-惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
-粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
-玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
-二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
-一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
-松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
-频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
-惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
-粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
-玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
-二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
-一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
-松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
-HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
-二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-意达利,https://live.adultiptv.net/milf.m3u8
-美国,https://live.adultiptv.net/bigdick.m3u8
-泰国,https://live.adultiptv.net/bigtits.m3u8
-乌克兰,https://live.adultiptv.net/fetish.m3u8
-德国,https://live.adultiptv.net/bigass.m3u8
-西班牙,https://live.adultiptv.net/interracial.m3u8
-新西兰,https://live.adultiptv.net/latina.m3u8
-爱尔兰,https://live.adultiptv.net/blowjob.m3u8
-午夜8,http://live.redtraffic.xyz:80/pornstar.m3u8
-午夜8,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-午夜7,http://live.redtraffic.xyz:80/teen.m3u8
-午夜6,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-午夜5,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-午夜4,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-午夜3,http://live.redtraffic.xyz:80/threesome.m3u8
-午夜2,http://live.redtraffic.xyz:80/bigtits.m3u8
-午夜10,http://live.redtraffic.xyz:80/cuckold.m3u8
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="极限电影" tvg-name="极限电影" tvg-logo="https://epg.v1.mk/logo/极限电影.png" group-title="其他",极限电影
+p3p://fccs.ddns.net:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3
+#EXTINF:-1,tvg-id="极限电影" tvg-name="极限电影" tvg-logo="https://epg.v1.mk/logo/极限电影.png" group-title="其他",极限电影
+p3p://94.130.51.14:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3
+#EXTINF:-1,tvg-id="JStar极限电影台" tvg-name="JStar极限电影台" tvg-logo="https://epg.v1.mk/logo/JStar极限电影台.png" group-title="其他",极限电影台
+http://feilong123.vip/409990236/mpd/smtxx.php?channel=jstar
+#EXTINF:-1,tvg-id="JStar极限电影台" tvg-name="JStar极限电影台" tvg-logo="https://epg.v1.mk/logo/JStar极限电影台.png" group-title="其他",极限电影台
+http://rihou.cc:555/tv/hktv/sstv8633ht
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🎄松视1
+p3p://fccs.ddns.net:19906/5fe445280008a40682a0367c343436bb
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🎄松视2
+p3p://fccs.ddns.net:19906/60232b5f00007bc37850649979e379df
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🎄松视3
+p3p://fccs.ddns.net:19906/6109e9590001f40bfd9b661109395f3b
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🎄松视4台
+https://u.kstore.space/download/8504/%E8%8B%B9%E6%9E%9C%E9%A6%992.mp4
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🎄松视1
+p3p://fccs.ddns.net:19906/5fe445280008a40682a0367c343436bb&server=fccs.ddns.net:19906
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🎄松视2
+p3p://fccs.ddns.net:19906/60232b5f00007bc37850649979e379df.ts
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🎄松视3
+p3p://fccs.ddns.net:19906/6109e9590001f40bfd9b661109395f3b
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🎄松视1
+p3p://94.130.51.14:19906/5fe445280008a40682a0367c343436bb
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🎄松视2
+p3p://94.130.51.14:19906/60232b5f00007bc37850649979e379df.ts
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🎄松视3
+p3p://94.130.51.14:19906/6109e9590001f40bfd9b661109395f3b
+#EXTINF:-1,tvg-id="云南麻栗坡" tvg-name="云南麻栗坡" tvg-logo="https://epg.v1.mk/logo/云南麻栗坡.png" group-title="其他",麻豆
+p3p://94.130.51.14:19906/606271190002a1266f75aaee0463186a
+#EXTINF:-1,tvg-id="云南麻栗坡" tvg-name="云南麻栗坡" tvg-logo="https://epg.v1.mk/logo/云南麻栗坡.png" group-title="其他",麻豆
+p3p://fccs.ddns.net:19906/606271190002a1266f75aaee0463186a
+#EXTINF:-1,tvg-id="潘多拉完美" tvg-name="潘多拉完美" tvg-logo="https://epg.v1.mk/logo/潘多拉完美.png" group-title="其他",潘多拉完美
+p3p://fccs.ddns.net:19906/5fe4450c000c918b829fca233c845311
+#EXTINF:-1,tvg-id="潘多拉完美" tvg-name="潘多拉完美" tvg-logo="https://epg.v1.mk/logo/潘多拉完美.png" group-title="其他",潘多拉完美
+p3p://94.130.51.14:19906/5fe4450c000c918b829fca233c845311
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🍌香蕉
+p3p://fccs.ddns.net:19906/60626a760005067e6f5bbecb5816771e
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🍌香蕉
+p3p://94.130.51.14:19906/60626a760005067e6f5bbecb5816771e
+#EXTINF:-1,tvg-id="惊艳" tvg-name="惊艳" tvg-logo="https://epg.v1.mk/logo/惊艳.png" group-title="其他",惊艳
+p3p://fccs.ddns.net:19906/60626a1b00010e3e6f5a5a4f018e5ebe
+#EXTINF:-1,tvg-id="惊艳" tvg-name="惊艳" tvg-logo="https://epg.v1.mk/logo/惊艳.png" group-title="其他",惊艳
+p3p://94.130.51.14:19906/60626a1b00010e3e6f5a5a4f018e5ebe
+#EXTINF:-1,tvg-id="LOOKHD" tvg-name="LOOKHD" tvg-logo="https://epg.v1.mk/logo/LOOKHD.png" group-title="其他",LOOK
+p3p://fccs.ddns.net:19906/606271190002a1266f75aaee0463186a
+#EXTINF:-1,tvg-id="happyfishing" tvg-name="happyfishing" tvg-logo="https://epg.v1.mk/logo/happyfishing.png" group-title="其他",HAPPY
+p3p://fccs.ddns.net:19906/616b79be000a35b17ab2f7b84c325eeb
+#EXTINF:-1,tvg-id="happyfishing" tvg-name="happyfishing" tvg-logo="https://epg.v1.mk/logo/happyfishing.png" group-title="其他",HAPPY
+p3p://94.130.51.14:19906/616b79be000a35b17ab2f7b84c325eeb
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🌈彩虹e
+p3p://fccs.ddns.net:19906/6062716c0008efc86f76f0c44d55329f
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🌈彩虹e
+p3p://94.130.51.14:19906/6062716c0008efc86f76f0c44d55329f
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🌈彩虹K
+p3p://fccs.ddns.net:19906/63fd56ec000b5f0d26d4fe1b07963493
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🌈彩虹K
+p3p://94.130.51.14:19906/63fd56ec000b5f0d26d4fe1b07963493
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🌈彩虹电影
+p3p://fccs.ddns.net:19906/6253066c00049259f74b05224cf375e6
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🌈彩虹电影
+p3p://94.130.51.14:19906/6253066c00049259f74b05224cf375e6
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",🌈彩虹频道
+p3p://fccs.ddns.net:19906/63fd589300099ff426db7203798a21f9
+#EXTINF:-1,tvg-id="cctv-第一剧场" tvg-name="cctv-第一剧场" tvg-logo="https://epg.v1.mk/logo/cctv-第一剧场.png" group-title="其他",一本道
+p3p://94.130.51.14:19906/5fe6d4d8000a01508ca17e596611121f
+#EXTINF:-1,tvg-id="待添加" tvg-name="待添加" tvg-logo="https://epg.v1.mk/logo/待添加.png" group-title="其他",加勒比
+p3p://94.130.51.14:19906/5fe6d4c0000ea3178ca121c83d4b0a39
+#EXTINF:-1,tvg-id="CIBN东方购物" tvg-name="CIBN东方购物" tvg-logo="https://epg.v1.mk/logo/CIBN东方购物.png" group-title="其他",东京热
+p3p://94.130.51.14:19906/5fe6d4f10006c6ec8ca1df2d4bd07a2d
+#EXTINF:-1,tvg-id="CATCHPLAY Beyond" tvg-name="CATCHPLAY Beyond" tvg-logo="https://epg.v1.mk/logo/CATCHPLAY Beyond.png" group-title="其他",CATWALK
+p3p://94.130.51.14:19906/5fe7fe14000bbbb1912a91354e4b5706
+#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",人妻斩
+p3p://94.130.51.14:19906/5fe7fd63000e253a9127de6a777d49b4
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",エッチな4610
+p3p://94.130.51.14:19906/5fe7ff6e0001271f912fd60179236471
+#EXTINF:-1,tvg-id="64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7" tvg-name="64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7" tvg-logo="https://epg.v1.mk/logo/64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7.png" group-title="其他",FC2PPV
+p3p://94.130.51.14:19906/5fed5578000e28fba6077f774fba6950
+#EXTINF:-1,tvg-id="KLT靖天国际" tvg-name="KLT靖天国际" tvg-logo="https://epg.v1.mk/logo/KLT靖天国际.png" group-title="其他",天然むすめ
+p3p://94.130.51.14:19906/5fe6d51e0009f6db8ca28fc66a750553
+#EXTINF:-1,tvg-id="常熟城镇财经" tvg-name="常熟城镇财经" tvg-logo="https://epg.v1.mk/logo/常熟城镇财经.png" group-title="其他",熟女俱乐部
+p3p://94.130.51.14:19906/5fe6d5ab000d6dc38ca4b77276be2f75
+#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",人妻熟女
+p3p://94.130.51.14:19906/5fe8019000071e4f91382c5b7fef4506
+#EXTINF:-1,tvg-id="BJTYXX" tvg-name="BJTYXX" tvg-logo="https://epg.v1.mk/logo/BJTYXX.png" group-title="其他",XXXAV
+p3p://94.130.51.14:19906/5fe80214000d2ec8913a3189085b6434
+#EXTINF:-1,tvg-id="BBCLIFESTYLECHANNEL" tvg-name="BBCLIFESTYLECHANNEL" tvg-logo="https://epg.v1.mk/logo/BBCLIFESTYLECHANNEL.png" group-title="其他",Leo TV
+p3p://94.130.51.14:19906/63fd589300099ff426db7203798a21f9
+#EXTINF:-1,tvg-id="KLT靖天国际" tvg-name="KLT靖天国际" tvg-logo="https://epg.v1.mk/logo/KLT靖天国际.png" group-title="其他",天美传媒
+p3p://94.130.51.14:19906/61bff85e00029535c4bd1c4f47fb5400
+#EXTINF:-1,tvg-id="云南麻栗坡" tvg-name="云南麻栗坡" tvg-logo="https://epg.v1.mk/logo/云南麻栗坡.png" group-title="其他",麻豆大番
+p3p://94.130.51.14:19906/5fee099a000e4a8da8c7244c6ff632e3
+#EXTINF:-1,tvg-id="云南麻栗坡" tvg-name="云南麻栗坡" tvg-logo="https://epg.v1.mk/logo/云南麻栗坡.png" group-title="其他",麻豆导演
+p3p://94.130.51.14:19906/5fee723900074e31aa5fcfa0561f1b95
+#EXTINF:-1,tvg-id="云南麻栗坡" tvg-name="云南麻栗坡" tvg-logo="https://epg.v1.mk/logo/云南麻栗坡.png" group-title="台湾",麻豆台湾
+p3p://94.130.51.14:19906/5fef5ed40002a464adfc0be76180670f
+#EXTINF:-1,tvg-id="20240101085721157TEMPIMAGE" tvg-name="20240101085721157TEMPIMAGE" tvg-logo="https://epg.v1.mk/logo/20240101085721157TEMPIMAGE.png" group-title="其他",Pigoo HD
+https://nl.utako.moe/pigoo/index.m3u8
+#EXTINF:-1,tvg-id="CGTN西班牙" tvg-name="CGTN西班牙" tvg-logo="https://epg.v1.mk/logo/CGTN西班牙.png" group-title="其他",西方OFFICE场景
+p3p://fccs.ddns.net:19906/6403cb9f0003a839400cad904b301253
+#EXTINF:-1,tvg-id="CGTN西班牙" tvg-name="CGTN西班牙" tvg-logo="https://epg.v1.mk/logo/CGTN西班牙.png" group-title="其他",西方黑白大战
+p3p://fccs.ddns.net:19906/6403cc0d0000f97a400e5a9115f012f3
+#EXTINF:-1,tvg-id="CCTV-4中文" tvg-name="CCTV-4中文" tvg-logo="https://epg.v1.mk/logo/CCTV-4中文.png" group-title="其他",中字有码1
+p3p://fccs.ddns.net:19906/5fe790790005783d8f7e6a1d2f8774e6
+#EXTINF:-1,tvg-id="CCTV-4中文" tvg-name="CCTV-4中文" tvg-logo="https://epg.v1.mk/logo/CCTV-4中文.png" group-title="其他",中字有码2
+p3p://fccs.ddns.net:19906/5fea645500007b7e9a898b3d6ea244cf
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本j-girl
+p3p://fccs.ddns.net:19906/5fe6d5ab000d6dc38ca4b77276be2f75
+#EXTINF:-1,tvg-id="上海ICS" tvg-name="上海ICS" tvg-logo="https://epg.v1.mk/logo/上海ICS.png" group-title="其他",上原亚衣
+p3p://fccs.ddns.net:19906/5fed670a00074c56a64c200b26e62c10
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本PPV-1
+p3p://fccs.ddns.net:19906/5fed5578000e28fba6077f774fba6950
+#EXTINF:-1,tvg-id="CCTV-16奥体" tvg-name="CCTV-16奥体" tvg-logo="https://epg.v1.mk/logo/CCTV-16奥体.png" group-title="其他",奥体金丝雀
+p3p://fccs.ddns.net:19906/5febb68d000c74979fb2b90c461f0bfb
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本VR精品
+p3p://fccs.ddns.net:19906/5fea649900057d369a8a9626665058f0
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本加勒比无码
+p3p://fccs.ddns.net:19906/5fe6d4c0000ea3178ca121c83d4b0a39
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本东京热无码
+p3p://fccs.ddns.net:19906/5fe6d4f10006c6ec8ca1df2d4bd07a2d
+#EXTINF:-1,tvg-id="韩国娱乐KMTV" tvg-name="韩国娱乐KMTV" tvg-logo="https://epg.v1.mk/logo/韩国娱乐KMTV.png" group-title="其他",韩国演艺圈潜规则
+p3p://fccs.ddns.net:19906/5fe6d643000a32ae8ca7085f68304b38
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本一本道无码
+p3p://fccs.ddns.net:19906/5fe6d4d8000a01508ca17e596611121f
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本CATWALK POISON
+p3p://fccs.ddns.net:19906/5fe7fe14000bbbb1912a91354e4b5706
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本J-Girl
+p3p://fccs.ddns.net:19906/5fe6d5ab000d6dc38ca4b77276be2f75
+#EXTINF:-1,tvg-id="PLAYBOY" tvg-name="PLAYBOY" tvg-logo="https://epg.v1.mk/logo/PLAYBOY.png" group-title="其他",Playboy KR
+p3p://fccs.ddns.net:19906/646fa54000041fa7e554fbe50f3b3077
+#EXTINF:-1,tvg-id="COLORSTAMIL" tvg-name="COLORSTAMIL" tvg-logo="https://epg.v1.mk/logo/COLORSTAMIL.png" group-title="其他",Midnight KR
+p3p://fccs.ddns.net:19906/646fa5d10004a256e557326f0b8b5682
+#EXTINF:-1,tvg-id="COLORSTAMIL" tvg-name="COLORSTAMIL" tvg-logo="https://epg.v1.mk/logo/COLORSTAMIL.png" group-title="其他",Miami TV
+p3p://fccs.ddns.net:19906/64eefc5700067df3d6beb4ce0b4d4a5d
+#EXTINF:-1,tvg-id="COLORSTAMIL" tvg-name="COLORSTAMIL" tvg-logo="https://epg.v1.mk/logo/COLORSTAMIL.png" group-title="其他",MiamiTVJennyForYou
+p3p://fccs.ddns.net:19906/64ef02c100057c77d6d7c2942a8e0343
+#EXTINF:-1,tvg-id="COLORSTAMIL" tvg-name="COLORSTAMIL" tvg-logo="https://epg.v1.mk/logo/COLORSTAMIL.png" group-title="其他",MiamiTV Replay
+p3p://fccs.ddns.net:19906/6741be80000386ff2760429d742944e0
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大神猫先生
+p3p://fccs.ddns.net:19906/5fed7efe000093e8a6a9af6f691c7583
+#EXTINF:-1,tvg-id="云南麻栗坡" tvg-name="云南麻栗坡" tvg-logo="https://epg.v1.mk/logo/云南麻栗坡.png" group-title="其他",麻豆天美传媒
+p3p://fccs.ddns.net:19906/61bff85e00029535c4bd1c4f47fb5400
+#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.v1.mk/logo/SITV七彩戏剧.png" group-title="其他",七天极品探花
+p3p://fccs.ddns.net:19906/62ca5692000275f2c95644b27e04396b
+#EXTINF:-1,tvg-id="旺苍综合" tvg-name="旺苍综合" tvg-logo="https://epg.v1.mk/logo/旺苍综合.png" group-title="其他",苍井空
+p3p://fccs.ddns.net:19906/5fea6483000512cf9a8a401a24db1f4e
+#EXTINF:-1,tvg-id="宁波少儿" tvg-name="宁波少儿" tvg-logo="https://epg.v1.mk/logo/宁波少儿.png" group-title="其他",波多野结衣
+p3p://fccs.ddns.net:19906/5fe6d96b000d95298cb35d8161902e91
+#EXTINF:-1,tvg-id="HEYUAN1" tvg-name="HEYUAN1" tvg-logo="https://epg.v1.mk/logo/HEYUAN1.png" group-title="其他",Heyzo无码
+p3p://fccs.ddns.net:19906/5fe8014b0007228691371ed44a517e44
+#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",人妻斩
+p3p://fccs.ddns.net:19906/5fe7fd63000e253a9127de6a777d49b4
+#EXTINF:-1,tvg-id="NEWTV熊猫生活" tvg-name="NEWTV熊猫生活" tvg-logo="https://epg.v1.mk/logo/NEWTV熊猫生活.png" group-title="其他",猫步毒药
+p3p://fccs.ddns.net:19906/5fe7fe14000bbbb1912a91354e4b5706
+#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",人妻熟女
+p3p://fccs.ddns.net:19906/5fe8019000071e4f91382c5b7fef4506
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",素人动画
+p3p://fccs.ddns.net:19906/5fe7ff6e0001271f912fd60179236471
+#EXTINF:-1,tvg-id="BJTYXX" tvg-name="BJTYXX" tvg-logo="https://epg.v1.mk/logo/BJTYXX.png" group-title="其他",XXXAV
+p3p://fccs.ddns.net:19906/5fe80214000d2ec8913a3189085b6434
+#EXTINF:-1,tvg-id="NEWTV黑莓动画" tvg-name="NEWTV黑莓动画" tvg-logo="https://epg.v1.mk/logo/NEWTV黑莓动画.png" group-title="其他",黑珍珠
+p3p://fccsen.dyndns.tv:29706/5e17adad000be87d05e8384a1be757b6
+#EXTINF:-1,tvg-id="CGTN法语黄色" tvg-name="CGTN法语黄色" tvg-logo="https://epg.v1.mk/logo/CGTN法语黄色.png" group-title="其他",色情世界
+p3p://fccsen.dyndns.tv:29706/641668210006c654685657293a3f03ba
+#EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",人妻出轨
+p3p://fccsen.dyndns.tv:29706/5e17adf800008ec005e95a5b2fd52e46
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本天热素人
+p3p://fccs.ddns.net:19906/5fe6d51e0009f6db8ca28fc66a750553
+#EXTINF:-1,tvg-id="64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7" tvg-name="64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7" tvg-logo="https://epg.v1.mk/logo/64380CD7912397DDA14400F5FCCEA5B7D0A20DF429A7.png" group-title="其他",FC2PPV-1
+p3p://fccs.ddns.net:19906/5fed5578000e28fba6077f774fba6950
+#EXTINF:-1,tvg-id="playboy" tvg-name="playboy" tvg-logo="https://epg.v1.mk/logo/playboy.png" group-title="其他",Play boy
+p3p://fccsen.dyndns.tv:29706/6277188600044b271208d22208f54f69
+#EXTINF:-1,tvg-id="CIBN古装剧场" tvg-name="CIBN古装剧场" tvg-logo="https://epg.v1.mk/logo/CIBN古装剧场.png" group-title="其他",古川伊织
+p3p://fccs.ddns.net:19906/5ff7430900000f8fcccf091c30805ccb
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本无码破解
+p3p://fccs.ddns.net:19906/5fef580000022fb6ade15fa160a61ae1
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="其他",迷奸无码
+p3p://fccs.ddns.net:19906/5ff201c40003b7e3b8481485121959a6
+#EXTINF:-1,tvg-id="CIBN经典剧场" tvg-name="CIBN经典剧场" tvg-logo="https://epg.v1.mk/logo/CIBN经典剧场.png" group-title="其他",经典三级片1
+p3p://fccs.ddns.net:19906/62dac52e00087a70098570f12b7962e5
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本情色动漫1
+p3p://fccs.ddns.net:19906/5ff742d8000bbabbccce4cb0100a31ff
+#EXTINF:-1,tvg-id="云南麻栗坡" tvg-name="云南麻栗坡" tvg-logo="https://epg.v1.mk/logo/云南麻栗坡.png" group-title="其他",麻豆大番
+p3p://fccs.ddns.net:19906/5fee099a000e4a8da8c7244c6ff632e3
+#EXTINF:-1,tvg-id="云南麻栗坡" tvg-name="云南麻栗坡" tvg-logo="https://epg.v1.mk/logo/云南麻栗坡.png" group-title="其他",麻豆导演
+p3p://fccs.ddns.net:19906/5fee723900074e31aa5fcfa0561f1b95
+#EXTINF:-1,tvg-id="云南麻栗坡" tvg-name="云南麻栗坡" tvg-logo="https://epg.v1.mk/logo/云南麻栗坡.png" group-title="其他",麻豆外番
+p3p://fccs.ddns.net:19906/5fee86ee0006ce80aab0b2811d842258
+#EXTINF:-1,tvg-id="云南麻栗坡" tvg-name="云南麻栗坡" tvg-logo="https://epg.v1.mk/logo/云南麻栗坡.png" group-title="台湾",麻豆台湾
+p3p://fccs.ddns.net:19906/5fef5ed40002a464adfc0be76180670f
+#EXTINF:-1,tvg-id="20240102091307555TEMPIMAGE" tvg-name="20240102091307555TEMPIMAGE" tvg-logo="https://epg.v1.mk/logo/20240102091307555TEMPIMAGE.png" group-title="其他",91沈先生
+p3p://fccs.ddns.net:19906/5fee5d4500060214aa0df631581d3164
+#EXTINF:-1,tvg-id="双鸭山电视台" tvg-name="双鸭山电视台" tvg-logo="https://epg.v1.mk/logo/双鸭山电视台.png" group-title="其他",鸭总探花
+p3p://fccs.ddns.net:19906/5fee5d6300022e98aa0e6a660e9f6d9f
+#EXTINF:-1,tvg-id="CIBN流金岁月" tvg-name="CIBN流金岁月" tvg-logo="https://epg.v1.mk/logo/CIBN流金岁月.png" group-title="其他",金三角猎艳
+p3p://fccs.ddns.net:19906/5fedf9d60007fb5ca8898d0b546620cc
+#EXTINF:-1,tvg-id="NEWTV黑莓动画" tvg-name="NEWTV黑莓动画" tvg-logo="https://epg.v1.mk/logo/NEWTV黑莓动画.png" group-title="其他",黑人干翻天
+p3p://fccs.ddns.net:19906/5fedfa1c00068347a88a9e1b1b517e42
+#EXTINF:-1,tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="https://epg.v1.mk/logo/千禧经典.png" group-title="其他",千人斩
+p3p://fccs.ddns.net:19906/5fee93e80000c61aaae361853fd36c1f
+#EXTINF:-1,tvg-id="Astro小太阳" tvg-name="Astro小太阳" tvg-logo="https://epg.v1.mk/logo/Astro小太阳.png" group-title="其他",小宝寻花
+p3p://fccs.ddns.net:19906/5fee940f000cad40aae3fce963f95891
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",午夜寻花
+p3p://fccs.ddns.net:19906/5ff22f59000ea2d6b8fa255a1d4c635c
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",男爵探花
+p3p://fccs.ddns.net:19906/62bf9f8c000c9a4c9f7bcb53499c786f
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大陆迷奸
+p3p://fccs.ddns.net:19906/5ff395d60009ac7fbe727c5c77ee33a8
+#EXTINF:-1,tvg-id="BEINSPORTSMAX2" tvg-name="BEINSPORTSMAX2" tvg-logo="https://epg.v1.mk/logo/BEINSPORTSMAX2.png" group-title="其他",SM西贡女
+p3p://fccs.ddns.net:19906/5ff92d000005f07cd448f7774faa47bd
+#EXTINF:-1,tvg-id="XJPS" tvg-name="XJPS" tvg-logo="https://epg.v1.mk/logo/XJPS.png" group-title="其他",PsychopornTW
+p3p://fccs.ddns.net:19906/5ff399460003af78be7fe8571735593d
+#EXTINF:-1,tvg-id="РОССИЯ1俄罗斯1频道" tvg-name="РОССИЯ1俄罗斯1频道" tvg-logo="https://epg.v1.mk/logo/РОССИЯ1俄罗斯1频道.png" group-title="其他",俄罗斯毛子
+p3p://fccs.ddns.net:19906/5fef89a7000537fcaea354cc0cff353a
+#EXTINF:-1,tvg-id="VOA美国之音" tvg-name="VOA美国之音" tvg-logo="https://epg.v1.mk/logo/VOA美国之音.png" group-title="其他",美国家庭
+p3p://fccs.ddns.net:19906/5ff7341b000bdc38cc94ba7e6b763297
+#EXTINF:-1,tvg-id="NEWTV欧美动画" tvg-name="NEWTV欧美动画" tvg-logo="https://epg.v1.mk/logo/NEWTV欧美动画.png" group-title="其他",欧美艺术
+p3p://fccs.ddns.net:19906/607e1f9f0004af8edb961118303e4935
+#EXTINF:-1,tvg-id="果洛" tvg-name="果洛" tvg-logo="https://epg.v1.mk/logo/果洛.png" group-title="其他",果冻传媒
+p3p://fccs.ddns.net:19906/5ff5420900039286c4fb220f4b133915
+#EXTINF:-1,tvg-id="利州综合" tvg-name="利州综合" tvg-logo="https://epg.v1.mk/logo/利州综合.png" group-title="其他",利哥探花 1
+p3p://fccs.ddns.net:19906/61b4e9970009588e998c4b9532e01f5f
+#EXTINF:-1,tvg-id="利州综合" tvg-name="利州综合" tvg-logo="https://epg.v1.mk/logo/利州综合.png" group-title="其他",利哥探花 2
+p3p://fccs.ddns.net:19906/64ebf4ae0000f1c2cae8c73738a337d4
+#EXTINF:-1,tvg-id="bestv精彩连播" tvg-name="bestv精彩连播" tvg-logo="https://epg.v1.mk/logo/bestv精彩连播.png" group-title="其他",精东影业
+p3p://fccs.ddns.net:19906/6135966100022f18a83512374f864fd8
+#EXTINF:-1,tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png" group-title="香港",香港三级2
+p3p://fccs.ddns.net:19906/607e0dca0005cd6ddb506963435f6f5a
+#EXTINF:-1,tvg-id="CCTV-4中文" tvg-name="CCTV-4中文" tvg-logo="https://epg.v1.mk/logo/CCTV-4中文.png" group-title="其他",中文有码3
+p3p://fccs.ddns.net:19906/5ff70064000178a1cbcab4ef4f5f0bd9
+#EXTINF:-1,tvg-id="KLT靖天国际" tvg-name="KLT靖天国际" tvg-logo="https://epg.v1.mk/logo/KLT靖天国际.png" group-title="其他",天台素人约啪
+p3p://fccs.ddns.net:19906/5fea646c000b95d79a89e7ed2c483b7a
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本强奸迷奸无码
+p3p://fccs.ddns.net:19906/5ff201c40003b7e3b8481485121959a6
+#EXTINF:-1,tvg-id="BRASILEIRINHAS" tvg-name="BRASILEIRINHAS" tvg-logo="https://epg.v1.mk/logo/BRASILEIRINHAS.png" group-title="其他",Brazzers
+p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
+#EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://epg.v1.mk/logo/SKYNEWS.png" group-title="其他",sky angel blue
+p3p://fccs.ddns.net:19906/6135967b0008b0e7a83579725d7b7ab3
+#EXTINF:-1,tvg-id="ANIBOX" tvg-name="ANIBOX" tvg-logo="https://epg.v1.mk/logo/ANIBOX.png" group-title="其他",IBIZA 巨乳控
+p3p://fccs.ddns.net:19906/644ecb5f000ca4ee650265db655d0248
+#EXTINF:-1,tvg-id="BRTV_DOCUMENTARY_8K" tvg-name="BRTV_DOCUMENTARY_8K" tvg-logo="https://epg.v1.mk/logo/BRTV_DOCUMENTARY_8K.png" group-title="其他",Dorcel XXX
+p3p://fccsen.dyndns.tv:29706/5e5f0e09000182301cb87c94194b43d6
+#EXTINF:-1,tvg-id="BRTV_DOCUMENTARY_8K" tvg-name="BRTV_DOCUMENTARY_8K" tvg-logo="https://epg.v1.mk/logo/BRTV_DOCUMENTARY_8K.png" group-title="其他",Dorcel XXX
+p3p://fccs.ddns.net:19906/658c2fcf0002ef0b3ccce8c504890f86
+#EXTINF:-1,tvg-id="VIVARUSSIA" tvg-name="VIVARUSSIA" tvg-logo="https://epg.v1.mk/logo/VIVARUSSIA.png" group-title="其他",Vivid red
+p3p://fccsen.dyndns.tv:29706/5b2c54aa0003c48fe0d1190f0090339a
+#EXTINF:-1,tvg-id="REDLIGHTHD" tvg-name="REDLIGHTHD" tvg-logo="https://epg.v1.mk/logo/REDLIGHTHD.png" group-title="其他",Red Light
+https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+#EXTINF:-1,tvg-id="NAURA" tvg-name="NAURA" tvg-logo="https://epg.v1.mk/logo/NAURA.png" group-title="其他",Naughty America
+p3p://fccs.ddns.net:19906/64046ff400057a05428e9a0e08ec2d0f
+#EXTINF:-1,tvg-id="COLORSTAMIL" tvg-name="COLORSTAMIL" tvg-logo="https://epg.v1.mk/logo/COLORSTAMIL.png" group-title="其他",MiamiTVMéxico
+p3p://fccs.ddns.net:19906/64ef00bf000eb051d6cfed1d17c05ca9
