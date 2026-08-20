@@ -11,23 +11,18 @@
 
 
 
-☘️VPN日本Tokyo,#genre#
-
-
-
-
-
-
-
 
 
 
 
 ☘️测试,#genre#
-松視1台,sop://sdk/hotout.php?id=9fC8F6E0817EB1517c
-松視2台,sop://sdk/hotout.php?id=07E46350977531A710
-松視3台,sop://sdk/hotout.php?id=8cc5a53F653B346010
-松視4台,sop://sdk/hotout.php?id=1f5316417a5cE1a582
+
+
+
+
+
+
+☘️VPN日本Tokyo,#genre#
 松视1,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/e9c4ae843a739515b56e9f4f69f186d3.flv
 松视2,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/d16d86c2ce26b214ddb0d4108e5c5761.flv
 松视3,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/6975771971729eb4cfc67f74a0b0a716.flv
