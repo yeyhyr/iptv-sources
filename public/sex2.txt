@@ -24,14 +24,8 @@
 
 
 ☘️测试,#genre#
-14765成人,http://46.151.196.223:14765/.ts
-14766成人,http://46.151.196.223:14766/.ts
-Blue Hustler,http://5.57.74.130:8000/play/a0c3/index.m3u8
-Dorcel XXX HD,http://5.57.74.130:8000/play/a0c9/index.m3u8
-Hustler TV,http://5.57.74.130:8000/play/a0df/index.m3u8
-Playboy TV HD,http://5.57.74.130:8000/play/a0c8/index.m3u8
-韩国CITV（18+）,http://1.251.21.70:4000/udp/239.192.67.42:49220
-蟹姐的大街松4，http://182.91.198.30/lewis-pull-stream.sirayatech-uat.onl.ac/live/ksnt0cBcEmBOBm4HoQsBk5hqXPYwaScnqAUca1EkWZ1fns3fWHdraojyQRr1i2yo.flv
+
+
 
 
 
@@ -189,6 +183,8 @@ japanese,http://cdn.adultiptv.net/japanese.m3u8
 
 
 ☘️非VPN sexTV1,#genre#
+14765成人,http://46.151.196.223:14765/.ts
+14766成人,http://46.151.196.223:14766/.ts
 babes,http://ru.iptv.monster/play/1768/manifest.m3u8?token=75BA4FC1CA5013E
 TV play,http://ru.iptv.monster/play/1768/manifest.m3u8?token=75BA4FC1CA5013E
 Brazzers TV Europe,http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/20090/manifest.m3u8
