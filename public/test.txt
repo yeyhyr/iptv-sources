@@ -1,25 +1,20 @@
 电视,#genre#
-HIPLAY2,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/64909a44e38c8485a8b8146e43943e19.flv
-潘多拉完美,http://live.dfj.sh:8443/s/ARgqJ9ecfjYJ-rrMoPYC15MjCVkOhc2DHzONbBvp4ve9MwUaDGZaBNK3f_OaFLu9K5_dgtBHxNSXHxTGmEZhxsmlaNITDtM_I4V_oOantp5Ck7-GfD7VDjEDZo0X5KGL-Di7LLRBvbIYoHk5glVTmUj7x_Ohb0pGSFW_sKUCZVT5CkFOq0ZUfmGwkKXpUTS1rE0rMRIZ-UAXf9DeaP1FQJX5Y6oYJg_2s2ejbuCJrB5AcgG_4dHupE-KUmiJe3tKgzfTgDz6GqPa4gNcE0u-C3-5rHwQm2HW_uIpzruLBDM-l_BlXSEmhOePLZk4Kyhto2usCmAW3lCcgAwcf6IOjw.m3u8
-彩虹E台,http://live.dfj.sh:8443/s/AS3GKdYc-3BAQ0yIk68PYN_TNlqn5UmSkUq6I3UbfSuSmDDJ6YLhQVoC7RNGo9-ZYI_8ln8ybzDWbrkCB_eWwTwHawrfg8stDGPKGSZKnOFgSswH2rx9hSkBqztn9kjFh9EQGbny_cN8hxh8sUsfN9mlfPR1tbt-n96PSaIRA8Sg6oJ2pOdZK-i7OgBVwSjA0ZxMhUZer72Ep-eyRhm8wDm1I0CJPoCuCKjaz80pkQyjORQjp4t_ZycoaVM6qyUecvylDs4J-fXxiOT3TVsHRd5OzTXv2UM8xo5gqzBALd4T5oUCRYJvJm5TOsU7Cs5qm3WZiLa-eYs.m3u8
-HAppy2,http://live.dfj.sh:8443/s/AfVcd5Dr66ber5g22Xv3G041GzalEPnm-xvxS1rmAOoLRS8esp7b-dc5UPlW-5cUFsY30b2ABeGRgDgscgbWuwVZqYh_fa5coLCoJd2HCHl7nKgBr1qOQlkdtQeAImUUOk5MIMJKnPyKvee2K2MxSAwvjDLOaew8a9Iua4iSBBfXO5pPVaNSwdf-gIOzZeO5iprMs_ftwL5QTTh07rmboFzgXHrEGA9jEnYNcF0hdS58FmAkV8yD3OQMVxb-Ne84KXklj6C9V2f2inbom3kSCcdtu34sXcwWPYXC3vOKhjicxky7XXIPpFXWvjXCTNXC2uZA.m3u8
-K頻道,http://live.dfj.sh:8443/s/AR9hj0bcbWpPUTuwnlXKJXxbXGSOeD-inPZp_7y-mL7SwJ7q40dGI8vaJXjtOhnIIM6DEzbACMNBEr3Qot7sWCcvF-KC5KAzl0_bQtJJLvGO5gFj5yNWXOiUwjRkUs3gnbKIdv-W0Qgx-yU2LTkuBwLH7KrWlsa4SITL_tKIZbcsppwUe2mRLezlewBJzN6FLK4jEDEeURtQ1JBHy7r6atthofrjW-Pp1ar-bA7Ymr0JqifnCP4iFF9tPmePNj1a6cgWAKqYxmMsSrtBZWibqI-LRBDHZBy9lWaIUWbY_Sgt-kNca5UYi2-lThYCB08UeImm9MuTJCU.m3u8
-潘多拉粉红,http://live.dfj.sh:8443/s/AZ5J_61AfFmV4YcpTwFy0WJXZZ42pEICc5Gcf1QMJ8zIP_yVxBO0xSE79AxJhY7l-pjFEP6L0AXoza-9SCbia2mGnWsjA6N7cWC2Eoe3dmMmQ5MxUAGe3fja-8oS65HMPsEVWHZL4646pKMfHKocLuwWmK82Y4GWaZ9CeJLdyVtthrA0spAwYX2eUZsZCi-l1NST6B9NXmD3QtC4N1IdgXxw9NloAewzKwtHmLXxzNJ27II4xozvsDsiAmdW85idcwKhgMIL9-VWDFJBYN7YTR6-RyvV1BE-noEcmvEso7a45ADndXeseWI8nYCGUCWPMMPaNtg.m3u8
-Hot,http://live.dfj.sh:8443/s/ATBeituip7gTan30R7_MM_uy9kZAfzI6BTj8z_P1Ynm3IWwO_3LVD6mhg90_4fNOhZCO1qW7lIExstXUgvnlAWQzyvYWMJixLmZykv9BTxbX0-iFc79F_Q_5XIxhPbSfH0avHdZITa71ucS5oaFvDpN04HZQd9Bt9lHXIkxMCzGa6tJcqVTdhpZXpJbsS6G5hE4hFVC9dmKIYiQl6lgP8K3nHpOL4w9UtvhuPgem8W5MoncCCwmFeGwOn2IcbX5KyrvCTYXE5WzdClDTHpsY4DvoI3rPPo80EkppDh1veJP1pa8YDmyTqaHPNw.m3u8
-樂活頻道,http://live.dfj.sh:8443/s/ARbmyMIXD9WWTxwERJjk52X1J1NDbFsSyo0jk2ZH5IaNYlUpadfhE7nbMWSgB6YdifEU8C5E5our2cxWNscfdaNBQQWbMdxP-e4jPwx7F3aTxZ_vik_vKMiP8HUqG-ZBS452j4qfp7v9TGHLKlhopAJtrJSJpK2Raim5g6TXGt0XDB_Z0_cTGLKzWzKYDrV3DzVS7jAMYACo3tChfi_QDXeFSzzRUqA_JtB-E3SoAC0yXNTpa3rrlzsITykB4IMrLAn5lhMUSuVargnrLk3aQ9KB3sOrpKXFEEMmXxzPGqXQt3R41FItSn7uNQ0kMdCz3homblS96wygKB4GXg.m3u8
-HiPLAY,http://live.dfj.sh:8443/s/AaT39THa4IK3s6Ft0Zsc3IJyNTzkaVYxmFPNjFT1N-E8WYHnGX-AyBzTK6Szpy2ZOaiNA53NaC_QoRyPhzBUanLHkcN3JVF8jC26RkxAKFv_LO7658hy5UdAckqdxZLIyRISuJP17gL7qut-5Rz4vkDuEga7Pxt1xMb1LwEVUsK-qYeYUCUWsYyHzI6nmIwn5p1Z-L-_MmAm0EIXG_Q4bE4QlmRDrTp-duddOyrqWizZpiWAQqcgE9ZIEa8Oxl1DI_f2ajyE2kKWzWmkOE8TqNyOCAf1RuZYCJmrGPrSu9jnKqiC1mWQentGvE3aH0j1YnXGo3c.m3u8
-彩虹R台,http://live.dfj.sh:8443/s/AcTMMH9F8b8o2qm2UKTCEbGpolIkM_uv5eoXbIKH5hhwsluF0lZ2xMwZk9cSPDHBRFMyU8H2RM_a2seJMVNRcAcOLumpe8Ez431JuLaoH6JwBSNnczNpdE6IZ-a6Xj5YsJdJSAY-6kurt1jZV1rQVRZ_V4s92SA38x-rAdpVYZi1T2HzvMQf3pWKEtuK5zhTAvWjg40d325lEms2RnASfX-HtndAhMzG20lAi-ykjsP0FPd0ZL47KZRwYXFcnihqNPZ89WzvKkIKaYOCnaYe4ux13U33qGtxZt8s87ojKr28prf8Wz9enL4wQOxMjdsINlHl2jg.m3u8
+
+
+
 松视1,http://154.222.30.196:7888/php/ss123.php?id=1
 松视2,http://154.222.30.196:7888/php/ss123.php?id=2
 松视3,http://154.222.30.196:7888/php/ss123.php?id=3
 惊艳台,http://154.222.30.196:7888/php/ss123.php?id=4
 潘朵啦,http://154.222.30.196:7888/php/ss123.php?id=6
 香蕉台,http://154.222.30.196:7888/php/ss123.php?id=7
+
 松视1,http://ctrl.yunshipin.bbroot.com:8080/streams/e5muhgtiwm/gc/playlist.m3u8
 松视2,http://ctrl.yunshipin.bbroot.com:8080/streams/5kiecachjvk/gc/playlist.m3u8
 潘朵啦,http://ctrl.yunshipin.bbroot.com:8080/streams/20a39355adf/gc/index.m3u8
 潘朵啦,http://ctrl.yunshipin.bbroot.com:8080/streams/gn0v29wncgr/gc/playlist.m3u8
 惊艳台,http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+
 松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
@@ -29,6 +24,7 @@ HiPLAY,http://live.dfj.sh:8443/s/AaT39THa4IK3s6Ft0Zsc3IJyNTzkaVYxmFPNjFT1N-E8WYH
 香蕉台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
 香蕉台,rtmp://112.29.121.74/live/易發TV-xjt
 惊艳台,rtmp://112.29.121.74/live/易發TV-jyt
+
 松视1,http://lhzb.lmllml.top:8000/play/Njk1OTo3.flv?token=g_Uz63SvXY4lGN4SriEimw&exp=4102444800&sign=59a955f98fc0fd522cbd02ccc8a9853d
 松视2,http://lhzb.lmllml.top:8000/play/Njk2MTo3.flv?token=IFsicSbpIX_s6Qo7d1H79w&exp=4102444800&sign=ee6c43f039460aa7057978be4aeeeed2
 松视3,http://lhzb.lmllml.top:8000/play/Njk2Mzo3.flv?token=uA9f5Q2u1zCtZrmxjbshtg&exp=4102444800&sign=5a114e6af79160c58f0de473d2c14e86
@@ -46,6 +42,7 @@ HiPLAY,http://live.dfj.sh:8443/s/AaT39THa4IK3s6Ft0Zsc3IJyNTzkaVYxmFPNjFT1N-E8WYH
 HOT,http://lhzb.lmllml.top:8000/play/Njk4Mjo3.flv?token=8d0ZiL7Hn0p7J1KbMzSJfQ&exp=4102444800&sign=5e19ef3d7d24ceb6bfb823b49066877a
 Happy,http://lhzb.lmllml.top:8000/play/Njk3Njo3.flv?token=AtZ1wcOmF_x0s1CD6wttzQ&exp=4102444800&sign=1ef2abf194ede1da5a232a04c963b38c
 HAPPY,http://lhzb.lmllml.top:8000/play/Njk4MTo3.flv?token=N2Tu7vKPKWBzRyqxtS6SMg&exp=4102444800&sign=3e053c8256550605d6660eee2373eda8
+
 松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
 松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
@@ -58,6 +55,7 @@ HAPPY,http://lhzb.lmllml.top:8000/play/Njk4MTo3.flv?token=N2Tu7vKPKWBzRyqxtS6SMg
 香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
 假玩美台,http://live.redtraffic.xyz:80/pov.m3u8
 限制级,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+
 欧美,#genre#
 Acordando HD,http://dns.fontedecanais.com.br:80/playercodestv/947942/1286461
 Chantageando HD,http://dns.fontedecanais.com.br:80/playercodestv/947942/1286462
