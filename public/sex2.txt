@@ -18,6 +18,38 @@
 ☘️测试,#genre#
 
 
+☘️日本,#genre#
+
+松视1,http://154.222.30.196:7888/php/ss123.php?id=1
+松视2,http://154.222.30.196:7888/php/ss123.php?id=2
+松视3,http://154.222.30.196:7888/php/ss123.php?id=3
+惊艳台,http://154.222.30.196:7888/php/ss123.php?id=4
+潘朵啦,http://154.222.30.196:7888/php/ss123.php?id=6
+香蕉台,http://154.222.30.196:7888/php/ss123.php?id=7
+
+松视1,http://ctrl.yunshipin.bbroot.com:8080/streams/e5muhgtiwm/gc/playlist.m3u8
+松视2,http://ctrl.yunshipin.bbroot.com:8080/streams/5kiecachjvk/gc/playlist.m3u8
+潘朵啦,http://ctrl.yunshipin.bbroot.com:8080/streams/20a39355adf/gc/index.m3u8
+潘朵啦,http://ctrl.yunshipin.bbroot.com:8080/streams/gn0v29wncgr/gc/playlist.m3u8
+惊艳台,http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+
+松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+惊艳台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+惊艳台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+潘朵啦,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+香蕉台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+香蕉台,rtmp://112.29.121.74/live/易發TV-xjt
+惊艳台,rtmp://112.29.121.74/live/易發TV-jyt
+
+
+
+
+
+
+
+
 
 
 📺p3p极限频道,#genre#
@@ -188,8 +220,18 @@ HiPPY,http://lhzb.lmllml.top:8000/play/Njk4MTo3.flv?token=N2Tu7vKPKWBzRyqxtS6SMg
 
 
 ☘️非VPN sexTV1,#genre#
-14765成人,http://46.151.196.223:14765/.ts
-14766成人,http://46.151.196.223:14766/.ts
+松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视3欧美版,http://live.redtraffic.xyz/bigdick.m3u8fluxuslust.m3u8
+松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+欧美媒松視2,http://live.redtraffic.xyz/fetish.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+潘朵拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+假玩美台,http://live.redtraffic.xyz:80/pov.m3u8
+限制级,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
 babes,http://ru.iptv.monster/play/1768/manifest.m3u8?token=75BA4FC1CA5013E
 TV play,http://ru.iptv.monster/play/1768/manifest.m3u8?token=75BA4FC1CA5013E
 Brazzers TV Europe,http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/20090/manifest.m3u8
