@@ -20,28 +20,6 @@
 
 
 
-
-
-
-☘️VPN日本Tokyo,#genre#
-松视1,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/e9c4ae843a739515b56e9f4f69f186d3.flv
-松视2,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/d16d86c2ce26b214ddb0d4108e5c5761.flv
-松视3,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/6975771971729eb4cfc67f74a0b0a716.flv
-惊艳台,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/ab0fb6448078f3c881006d866da64852.flv
-香蕉台,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/75d17934aae37a7cbf72a3bf03d41fd6.flv
-彩虹e,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/6204db836ec42c60cd7c077aee402898.flv
-彩虹K,http://154.94.104.2/pull-f5.flive.douyincdn.com/live/e798ae4376ce344cc4a294f666270f5a.flv
-彩虹电影,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/c85746d06c48e19ce15140b22ba85586.flv
-彩虹R频道,http://154.94.104.2/pull-f5.flive.douyincdn.com/live/1b0eb1938bd35289c2303dfd38bb2a36.flv
-潘朵啦完美,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/68d6fb485cf49bc2355589880177a773.flv
-Pandora Perfect,http://154.94.104.4/pull-f5.flive.douyincdn.com/live/4ad48b0e1aaf20babeba1f1a6f328959.flv
-潘朵拉粉红台,http://154.94.104.4/pull-f5.flive.douyincdn.com/live/22bf844c8f20002b7571599cf409ed58.flv
-极限电影,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/d824155a024da0ab36b5be24b5977637.flv
-Jstar,http://154.94.104.4/pull-f5.flive.douyincdn.com/live/f41c265b4bf13ef0581c6ffcea04c4eb.flv
-HOT,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/8cef75c0e70f2221d0e52729838727dc.flv
-Happy,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/ec3a13d242653fec2166d0d9d4d120ce.flv
-Hiplay,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/9f41bc9787c72af0a00fa547419a410a.flv
-
 📺p3p极限频道,#genre#
 极限电影,p3p://fccs.ddns.net:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3
 极限电影,p3p://94.130.51.14:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3
@@ -184,10 +162,24 @@ MiamiTVMéxico,p3p://fccs.ddns.net:19906/64ef00bf000eb051d6cfed1d17c05ca9
 松視3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 香蕉🍌免梯子,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
 外1,http://stream.cammonitorplus.net/1705/index.m3u8
-鳥語台181ip訂閱,http://181.78.192.238:8000/playlist.m3u8
-鳥語台186ip訂閱,http://186.33.0.101:4430/playlist.m3u8
 japanese,http://cdn.adultiptv.net/japanese.m3u8
-
+松视1,http://lhzb.lmllml.top:8000/play/Njk1OTo3.flv?token=g_Uz63SvXY4lGN4SriEimw&exp=4102444800&sign=59a955f98fc0fd522cbd02ccc8a9853d
+松视2,http://lhzb.lmllml.top:8000/play/Njk2MTo3.flv?token=IFsicSbpIX_s6Qo7d1H79w&exp=4102444800&sign=ee6c43f039460aa7057978be4aeeeed2
+松视3,http://lhzb.lmllml.top:8000/play/Njk2Mzo3.flv?token=uA9f5Q2u1zCtZrmxjbshtg&exp=4102444800&sign=5a114e6af79160c58f0de473d2c14e86
+惊艳台,http://lhzb.lmllml.top:8000/play/Njk1NTo3.flv?token=QRm82XRORhpk644nbXuANA&exp=4102444800&sign=689c108528d67dd5f4144377fd6b503a
+香蕉台,http://lhzb.lmllml.top:8000/play/Njk1Nzo3.flv?token=SSEkzFyfu0PJ5wDtpOo4KQ&exp=4102444800&sign=8b2eec1799924ecdebed90d7f717df1b
+彩虹e,http://lhzb.lmllml.top:8000/play/Njk2Njo3.flv?token=cTnSdhGG635OUK4pSgkMQw&exp=4102444800&sign=170acae399d86307ac97b7266a3b14c0
+彩虹K,http://lhzb.lmllml.top:8000/play/Njk2OTo3.flv?token=Ar-QpaWdWN3TrBb-H2sr-A&exp=4102444800&sign=f6eca9e261c578b04ab514b1e694d620
+彩虹电影,http://lhzb.lmllml.top:8000/play/Njk3MDo3.flv?token=pxT4fc6Dvceaycz_4Z2Egw&exp=4102444800&sign=8c1ac32123ee1fd85dca9cbebf291669
+彩虹R频道,http://lhzb.lmllml.top:8000/play/Njk3Mjo3.flv?token=tuDocrSpBPTPMcOctxXvJA&exp=4102444800&sign=74b3870aef52f084bca6877154cb3554
+潘朵啦2,http://lhzb.lmllml.top:8000/play/Njk3Mzo3.flv?token=yFTceATwWNOFVBsHxyG06Q&exp=4102444800&sign=77d45fef25f11183fc09b6dff00b3498
+潘朵啦3,http://lhzb.lmllml.top:8000/play/Njk3NDo3.flv?token=2aVGo3ojNokXCfOplgO_dA&exp=4102444800&sign=cd9e97b1d415cbb8fa4059a0e1d38bb6
+潘朵拉粉红台,http://lhzb.lmllml.top:8000/play/Njk3NTo3.flv?token=S68UiwAWL_pJt6e1QldfTg&exp=4102444800&sign=809dba2a6004e58ee2eab5fff1bda31b
+极限电影,http://lhzb.lmllml.top:8000/play/Njk3ODo3.flv?token=eCcNXohUGW6neGalBw2Xyw&exp=4102444800&sign=b917b8f8288af5ac9c3547b575acb521
+极限电影,http://lhzb.lmllml.top:8000/play/Njk3OTo3.flv?token=i3MZjnI8Ky_s7pnuiv5uog&exp=4102444800&sign=2cf95c160fbc1d22b0b206531edc9746
+HOT,http://lhzb.lmllml.top:8000/play/Njk4Mjo3.flv?token=8d0ZiL7Hn0p7J1KbMzSJfQ&exp=4102444800&sign=5e19ef3d7d24ceb6bfb823b49066877a
+Happy,http://lhzb.lmllml.top:8000/play/Njk3Njo3.flv?token=AtZ1wcOmF_x0s1CD6wttzQ&exp=4102444800&sign=1ef2abf194ede1da5a232a04c963b38c
+HiPPY,http://lhzb.lmllml.top:8000/play/Njk4MTo3.flv?token=N2Tu7vKPKWBzRyqxtS6SMg&exp=4102444800&sign=3e053c8256550605d6660eee2373eda8
 
 
 
