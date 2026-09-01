@@ -31,3 +31,4 @@ HOT 频道,http://lhzb.lmllml.top:8000/play/Njk4Mjo3.flv?token=8d0ZiL7Hn0p7J1KbM
 奥视频道 Ours 2HD,http://lhzb.lmllml.top:8000/play/Njk4NDo3.flv?token=JqdHv4bKJjaV7WIcEVUiag&exp=4102444800&sign=6b8b4639f35d4f24f450b9698ecc86ee
 奥视频道 Ours 3HD,http://lhzb.lmllml.top:8000/play/Njk4NTo3.flv?token=t3ele4k12qics4EvQQhEmQ&exp=4102444800&sign=e691fcc68495809e2fcb83655ee44178
 奥视频道,http://lhzb.lmllml.top:8000/play/Njk4MDo3.flv?token=_sZwI9SaVvMzogMHKLeSVg&exp=4102444800&sign=4ddafe8c6bd163f85982ae0c7a5a4c71
+奥视频道2,https://dy11.baipiaoyes.com/ckt3kzjcmfcbx300/dztkbmehjv2pw869/d54b9fbd29d33ee16a3e0407136c5073
