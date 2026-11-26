@@ -3,6 +3,142 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 🌊港澳,#genre#
+18+,#genre#
+K-Channel,tvbus://3KNF6kPyzUp3Y349DxJfkiq3TVCQBVJfZ32J25aXdHPuyjS4K5
+K-Channel,tvbus://3KNF6kPyzUp3Y349E1aTu8yQW8q4wbt1u4oorGSiaYz1rHGJbq
+Rainbow 1,tvbus://44wk6dK3Ac6TrCs9BWv72CCWzCV9pPSZKa164RyhyUo63ZCMNn
+Rainbow 1,tvbus://44wk6dK3Ac6TrCs9BWv72CCWzCV9pPSZKa164RyhyUo63ZCMNn
+松视1台,tvbus://4ZGxgSYfbSu5g3wvMYR8HyrRYj2r4F259RJbVCYdMKYKXHkPea
+松视1台,tvbus://4ZGxgSYfbSu5g3wvMePbWiR1RkVJhGfnZ2pbWuS9mqiWnKnuSD
+松视2台,tvbus://4mrRVwxGCZGg63RsXU7SpVC6t2J9QhZ6tdo9JnNjGo6EgwjJ9b
+松视2台,tvbus://4mrRVwxGCZGg63RsXUeWKrG8TYU6eo86rSLvy26PTJeuX83D51
+松视3台,tvbus://3P5xR67aoxDGtgeUSuAbh9to5QR5UXQ6Psg7pEzNsU8ArGuiGJ
+松视3台,tvbus://3P5xR67aoxDGtgeUSpvo8txG3rC891t3vhi6Twku7mCZtoM2hM
+潘多拉玩美,tvbus://4PX3vj99PSy4E7HP5W5VApkFCUMQXziH6z9yofHYKP2ntUToGM
+潘多拉玩美,tvbus://4PX3vj99PSy4E7HP5VKR7MsDxPsryvN9CuEnDFLMNfoFJezYN4
+ADULT 1,tvbus://3NXdt9mJm2X7UkdeoYjJuLagAKZrUC1Mna65gJRFaeVMQNM7vZ
+ADULT 1,tvbus://3NXdt9mJm2X7UkdeoV5ad5f3YzhTRDRZPmBVaXVaxJA1z7NNDE
+ADULT 2,tvbus://4iiZTUcP5mtSEP91oEZuumF2HdVU5efBq6wdNADdosjejXeiNN
+ADULT 2,tvbus://4iiZTUcP5mtSEP91oB1S7gBzFMSUGWfd2ziZhcgXh3JMHNPGjW
+ADULT 3,tvbus://44YmrLYA7TnyJJvrkes6SHGREMnicFvVT66AB4V54q9V3UQzEt
+ADULT 3,tvbus://44YmrLYA7TnyJJvrkgqGnn4sAGAX3UjD1WJgoyU6rCnziTbNPo
+ADULT 4,tvbus://3YY6V68SBDSL8MEiiQpdBpxX4dTLAJSYXncy1eR3saAhxrUEpr
+ADULT 4,tvbus://3YY6V68SBDSL8MEiiXYiduDG8kSXR6izt2Gv5UmWXUXjmEs8Bb
+ADULT 5,tvbus://3hTmn3TJpTHzqG3UtLXVeT1vRmhkCvjPmoHDV4puE9fgLrAopv
+ADULT 5,tvbus://3hTmn3TJpTHzqG3UtT7FdApP2KqwzGH5fgNVZ137K2i8FxZE7F
+ADULT 6,tvbus://4NyxUUAoYpaBM2T9Z4mr1ja1qy7tZZ2gV4rb8MspoWqbW1v57Z
+ADULT 6,tvbus://4NyxUUAoYpaBM2T9Z794vNL3ypDYCTqLxEzu6ewN8yDKq8TggN
+ADULT 7,tvbus://4VEwv5UBAGmLydysDpLxFXXFYqm7tWbe2cJSXgNtZ6nbcCxXo6
+ADULT 7,tvbus://4VEwv5UBAGmLydysDtd7FEdCzfPAN1cg61UCmwga6JKykv3UQ1
+ADULT 8,tvbus://4rDgivKLKmkiwfTDGAAWZgc28ZpiC2mtrzch4kYJFuuzD326EY
+ADULT 8,tvbus://4rDgivKLKmkiwfTDFwDz5fdYT8TGpzifEzGdv26TPnokJjGKQV
+ADULT 9,tvbus://4e6uhM7SryuU1v3M2nit8G7YXKmtfqkey13J61aDk6gjMw2UrL
+ADULT 9,tvbus://4e6uhM7SryuU1v3M2xFSV3wDRf4ta9wmA4AUivdM6eZaSHnanJ
+Playboy,tvbus://4iLu3acUCnU54CTBYYPf5asDDRDn59faG3axgdsjH6L3XuSyB1
+Sextreme,tvbus://3p1WYXqXpnJG85uBLd2t3m3XDrYnRJicppqR7yuTackDUcvKQS
+Sexy Hot,tvbus://4brVa3iG5qN1HxxmXZdEViKeZ37359dqDD4iwk2jUgiHMrwXiv
+Venus,tvbus://3BnTk27cgSPG8B2K3xdEazrxVqz8Z7vLPMWa7Ke9A2rkZX1ziE
+Anal,tvbus://3HnbPGrrpNuzt9896EVumrcC5Jbe6dzAoa3iZUtc51Kh9tA3TA
+Asian,tvbus://3iFmorrRzEM4VfpDd85E4PmDDFS8NCSU2xBR94pFiH71LxrEGS
+Blowjob,tvbus://4ASg8RyV8v1UJ8BjCb6Dd7eGWZ6Nnsm6iFZWJzBKDwGPRREkGA
+Ebony,tvbus://4AFp9W5KrkD3RNeSuJ41dBg5yFmWYzQxRjdgS9ssrzRXBSQgkJ
+Erotic,tvbus://4goHs2ibe9awrQyFNdzhzeedyp63ZPjJF8jDXJ6qfS1F4goCrh
+Fetish,tvbus://3NcreQcycTPuQQE17CDKmtpmhWeNyNaNvYA5dcYPDBsZCbuYdq
+Hardcore,tvbus://3J9EtzEorUvQREthiLFiCe3n3zYk3nimUYykG1RHRNv1zUY1dA
+HD,tvbus://44YAoSjRp3LX8qgo9mmy6MsorwceDR1KJfxTtA9gPRE4Y3BzNJ
+Mature,tvbus://38WNbkVtY8QLFCKX2yee1WaGmjZvkr8PzLCjqcNuwUfadW8EBU
+Milf,tvbus://2zxMMqQiK7q9rijZrL877UZpAA1r1mkyFGWaUPhzer5wu29fL1
+Teen,tvbus://41jGEj7BQmsTDDqJ1ZWQaM9WxwiBPbCy1eGTyoa1NWyC3dattR
+Shemale,tvbus://33G1ANe7sNnpnSC7EJrrPfT52qkpAKUXdnMGkSKnajgjnFCcp6
+German,tvbus://3sfJenRPNqmsjNquB25NgdPrBDpHa8jh2suwnDwArdWX4R3eeM
+Young Old,tvbus://2y2jjSZfHNVH9BpGkfro71YfgJrXygaKqAq9iDJYLQZ1hvTemU
+Webcam,tvbus://4sh4heF4c8FxvH6aWRuMtSxr5utYS8WvkvwCwk78TKGebh7vpS
+Vintage,tvbus://4WwysQPLXHjExQo8k2nT2d2RTLLCdugaVBN3wz7CqdQ3LM6idQ
+Trans,tvbus://4pRTE74MTtXfiVT39yYVf8vTe8cbp2gHjCfq5ENMmn2Qg6oKNr
+Threesome,tvbus://2y2Nfj5m4JTqkLj2KhSUma3fgJ1vfrGvqHnJqwNuBEzj4BcpMY
+Strip,tvbus://3JvCgQg2qLxtKpPMGGhTpAVCiVsJQzSAMSAaxo4Bi9svCquRv8
+Straight Sex,tvbus://3gie7MDUzsKJtnHNLsJhELXdEkrc4VF4E1fHBDRJ7UB4X6Cczb
+Squirting,tvbus://4M7SzN99XsbtKjHPxVjiQgFPUiN6X21BTtY1JqHrtJS2Ez5u4r
+Solo Male,tvbus://3qeAArPqSPv8bufs2wHRSQNKXWV3hCiCvkzJUoNbVDuAS7fCsS
+Solo girl,tvbus://3ZmjQN6GuvKzRLURUzZBM2GqexVoWPoF9dE7yVffwMvvsXhhjf
+Redhead,tvbus://3C2H2V5kbWknUrpGyrf9gzyzq1hr7YXPLQRDcoAV794CgkaJuz
+Pussy Licking,tvbus://3Y4ccVxJJ7xL3gJ22fF2YFHc3TbG5eRnMpb429YGe7kqbb5REE
+Public,tvbus://441BV144iLvmcucGguGTc9426TF62N5FFQttu6ex4Eeo1MoTTM
+POV,tvbus://4KMCg1ZhpWuj4cpiZ5XRkS6v7R5mVzkYjaVmHSXK2iwnZzT3WX
+Popular With Women,tvbus://3drnEvuSyUPSCd3R31ykWWnrVCRHKmLVrUL4coBR5iusegAGRU
+Orgy,tvbus://3U3RFCE3YY7sRJrGe4VR7pnpgZYFxB91iZEqtC1rFJGQnEKApH
+Old Young,tvbus://41fVzQ8evf6r3cqbMaMVQT2TfaHTSoTySGsgm1DndjosYL5M52
+Masturbation,tvbus://3DukAhDFvrxZmUJfBaYtoeccqVFCh492HaJob1EW1hHkQLoGi1
+Lesbian,tvbus://44K82uczgDjV9isGWuS5KrqHi7cPyRAkj8HP2nKby1Y1pZwPt9
+Latina,tvbus://3Twx7jwfhHRuaWaZG7DzqVAQQCtXGS6pKcjTYFH4uViMnrfjrb
+japanese,tvbus://3zMxJ4FMNR3PEmxBeAmMwVEqd8wy4rcERrLamc6TFdQRSFMeMK
+Interracial,tvbus://3HznQBQ6z29UQsk2eGaiA6uCRYoRCaaTV4HB4SxZLqEXsprBvn
+Indian,tvbus://4HHsMYgB1kboUaygBZ7ZwQJ4Mxhgo23iwu7fKbauai6K322YPK
+Handjob,tvbus://3nLJEreBf5aZW4y3PzJK9ATmA6o9HS7aPkNmTZFkUaG65Lhiy9
+Group Sex,tvbus://4rs9bhYcTXKkJ4iR6H6wLUGkziFvk2uVprgGWW7RAuCFnC6Pwu
+Fingering,tvbus://4pehrsfpvrBJCzqJQU199YcTWu1XSULYVvSAPSuCuumputPp8j
+Female Friendly,tvbus://4TfA9W3bQA7eGxf5VXFVzFgdGZnKyfVUEWnVCzyGBohTEyFgEo
+Facial,tvbus://414gYpcGYbMHZ9N6LR61jnqCiqTDrA1ZC6mrDpGuFnK7tfXYfJ
+European,tvbus://4iqogB4CUs294CFLcqDixiTVWTKvNLNiw5AH9r9MFj3SgorSYD
+Dildos Toys,tvbus://4FKKotqhquH85x4cKGdgscBsAcRGwfFvGBRQHoFU4RpC7tZidG
+Cumshots,tvbus://3L3i4fcASevv3R9J46n7fK9DarXWnn9Nhix1CpkSKG2HuStWpA
+Creampie,tvbus://39YY9r3mkh5TjqtQ8vQnK8jWGijBcKpBQGs1Z4mpPmiTnVyM5V
+Couples,tvbus://4fQPLVQiiw5hHpjmH857msQXZKi5kykC42Dfva6ThgWJwLrRPE
+Brunette,tvbus://3wG3gHtSAyambpzbefzSjNjvxoYoXv3kAjmHmxT8QSnHDVvAon
+Blonde,tvbus://3hM7BMeGg1b1KY7gnnkk6e1EkXQGUbNJqrbHLHr53Cre4oSnd6
+Big Tits,tvbus://3EJU5cWpgdBSZo5EV8UC7bdLYG3KHEadd7th9kSobD7o3ESwwy
+Big Dick,tvbus://3TXTZ64baj69F8xKWjKXrBA8mp3Ea8PwdQxoEhrENea6Q7renV
+Big Butt,tvbus://3tAHsVA2qbmtcw6gLaxL1GH6LM94sKxfY3RvD9HQVRzMq2A9VF
+beautiful girl,tvbus://3hBVqurgM4Ak8uj9SvPV23yb2VoHwd2U2dCyfpCC3TV6ZYX1BV
+anime2,tvbus://4hnjqtSLYuzg7ivkXJN1kE7CB7TjBmVpVrcq85B5YrSH1gMJJb
+anime,tvbus://4sXNHgoRdBShZh2fLnyB5M4GVbW9zQkknJp4LfrKmHD6gQaQ7s
+Amateur,tvbus://4Fw8pJk1Nq2fQHojbZ3GLEE5oFgYzdhg5y4SBXW2GfijVfEMon
+mom,tvbus://4nK4h6hD6pN4hVnoEGBfqgEudGDZDedUEQiNmJ9TuUEhfwWcAu
+young,tvbus://3GRcJZMiqGVkSkLyvYgRyGc6b2ECbQa17DGTJhqm2PDxtLTgE3
+housewife,tvbus://4795qeJr8wMXpS4rVWYa9eZmRCozNQQT7FnutNh9rC7Uxn4eht
+orgasm,tvbus://448Pe863zPhGm4hvktj3UixMH8FERRvu2bQTxwpuMkaPSFpgXE
+wife,tvbus://4Sy7yTWHCHFhb9YVdeteRwmmU3ZSmE7AWr6jdaQZqEcQhsyvPH
+curvy,tvbus://3SzECCp9jjGHmPnxEC3fE3iLkxiZ11N62TBrdzNLGkGxwsMx13
+compilation,tvbus://3fNbkvqhDS7MxfjVF6dksC8qsUo5w2UyCiCMWzgfgWteLFcEoy
+chubby,tvbus://3pFg38NzumgB8SAgzBTjDfSF3wth9JvdXcKKJ7oYXmKCigaUj2
+big ass,tvbus://3R8QMjzXPgqosHKH8mqhPEvbwz8jRPazSnepEsUJiLMWefRo5V
+caught,tvbus://4bQe6NpTA8suzcUTFe3s1ipouDcG7xiMsB7YLRhci8WmuvVCaG
+big pussy,tvbus://31HGJ13b6wiv7EzPNHdAaVSekxJ2jsi4kgEe9EME2j77y2EA7R
+cute,tvbus://3rpUwbmFgrbkR3VUYjg9ZQKxTSB2qkc89gHDTa9HebNYMEUiWV
+down blouse,tvbus://4LKck74cj4McTiRTKidZor29BuU1vQcgVs5uU9u35eBH6fm3pL
+hot babe,tvbus://3xxXv4ApGHqDyL27hiib3n642rtgwzTshndVWnqi9wfg6aMz3c
+first time,tvbus://4BvyTHPqT4y1NcQzzW2aVGLkvhBGxYY61WcyEAtYYxtz3cqXnU
+big cock,tvbus://3EJF8k2fvdnRzS8FAvK35CgfMHoGxMwsBNRH8LBPcUCHZk7yij
+whore wives,tvbus://4Yr7GSePbEe6myLCcsNcFv86S5b8cwSvL3Hsjye3Nr68NU7gTM
+cumshot,tvbus://3SxQsM9h1mqoosJL1MuSF1er54HC3tC1yNncsQnC3Vqz2R4wK7
+tiny,tvbus://3xc3r4qVWQZis3bzf7AcKNNNYGc2DSu8eydzWa77BokrQ8iJpg
+teenanal,tvbus://3f4TmabeChnMp6tAE4AphtCQG1fCAXJb92KzcpCUstRbfzfwRc
+gangbang,tvbus://3oyZXJjy8ViembrLMmbZyQAxVHUJ9DwNYBWa9qX17gp9GTGAgy
+cuckold,tvbus://4KJpQYAgZtnYjm1PNTEzLUtva7AxeNPKWRjwa4FX4qNYwXLZ1p
+masturbationsolo,tvbus://3AjNptf73nUvdoPoUdmhPAQ17ZPPoUFtBgaMLeCMKTSV51DdQJ
+analsex,tvbus://4sc57pZRG5cBnH8oAe8D458Y6UkHCvbWCQJKrXP6b6yqCYURnD
+casting,tvbus://3mVxy3zunWV44a48cUvmGTAoYtpMBqhMbmzk2xnFzSDFb8nYA3
+small tits,tvbus://3FxzUfXW1LkzHjjTNJCP2GvQKczF6eREfvu4Ba38NAZzRMf9tH
+skirt,tvbus://3SYGLMHYirHPrDbrpeDgK5DvCv6HfgoEK8pg9zFDRjZTYYbEBk
+big boobs,tvbus://4ZTQHPqYnyW3uT1EMkufizZt8wtie8ZY3TcoMJd5vLkZKxFBqR
+perverted,tvbus://3ZGAvm98STdUti1yywcPGnsUCQuxp4JvEuHxjDJedHeFFbj2Ap
+student,tvbus://4iEZwcNjp1oDHo2ri3W9ZQcydpWDz8pr3PjyPJvcRVMbDgUKkN
+double penetration,tvbus://4Ba4QwT1nLB2ZXbj4eWgcRdyHwniqxnkEjcVEkTt81zvdjaQf2
+friend,tvbus://3PYEPVprRxgYmk3hfLLK2LUt6vkTywWKb63CT2acm2rx8zgb38
+upskirt,tvbus://4kDXeAeewMJ1c6ZjnKTxRGEK5zpVuK8iTP9eEsyRu6aXxfNT5B
+huge cock,tvbus://4QrrAqKt4bB6G8gP6CRbCu5fqdPR5TnGLpiLTi1Q7MQrxp2Coe
+stockings,tvbus://4LMarQcYmFFc6qs7vn7Zc1mZCCBE4Ghr3FJSYyqBhF5LL2JJiR
+dress,tvbus://34uMtHFKeovBQms8MnDweRxxGcgDoUXkL6B8am2BsHwNhpzATT
+busty,tvbus://3EUGFgBBsJ8vitkgdES9cRrUJwhZDkXiMcz1v8abiUdYqZGn1h
+extreme,tvbus://3j9KFLZxi6Nw7bRpxqWVwautij3oRujNWyVvJZ1Dkg3nnSS2DN
+home,tvbus://4bssYvgmPda1i8F5iGFjMMRjVNFoW1M8syqWbWGDVEBY8KJrZu
+japanese mom,tvbus://4CXUsXhYrxu9gNdFWFWpwfXq17f9FYSarjjfwdNDcM38FKBZRS
+Playboy FHD,tvbus://4iLu3acUCnU54CTBYYPf5asDDRDn59faG3axgdsjH6L3XuSyB1
+BBW,tvbus://4oKnPuwPWtcML43e7gzMa1L3Frbhb3MiCXJc6WP28DRanijb9U
+
+
+
+
 香港,#genre#
 无线新闻台,http://cc.123.rr.kg/163189/wxxw
 无线新闻台,http://cc.123.rr.kg/163189/wxxwt
